@@ -1,0 +1,59 @@
+POST signup ? team_name ali password a
+POST signup ? team_name nima password a
+POST signup ? team_name reza password a
+POST login ? team_name ali password a
+POST login ? team_name reza password a
+POST logout ? team_name ali password a
+POST buy_player ? name A. Traore
+POST buy_player ? name Boubacar Traore
+POST buy_player ? name C. Dawson
+POST buy_player ? name D. Bentley
+POST buy_player ? name Hugo Bueno
+GET squad ? ali ali
+POST signup ? team_name javad password a
+GET team_of_the_week ?
+POST register_admin ? username admin p 123456
+POST pass_week
+GET team_of_the_week ?
+GET players ? team_name Man._City df ranks
+GET users_ranking
+POST login ? team_name nima password a
+GET squad ? ali ali
+POST buy_player ? name S. Kalajdzic
+POST buy_player ? name D. Raya
+POST buy_player ? name L. Kurzawa
+POST buy_player ? name Y. Tielemans
+POST sell_player ? name Y. Tielemans
+POST buy_player ? name Y. Tielemans
+POST sell_player ? name Y. Tielemans
+POST buy_player ? name Y. Tielemans
+POST sell_player ? name Y. Tielemans
+POST buy_player ? name Y. Tielemans
+GET squad ? nima nima
+POST register_admin ? username admin p 123456
+POST pass_week
+GET matches_result_league ?
+GET users_ranking
+POST login ? team_name nima password a
+POST buy_player ? name Gabriel Magalhaes
+GET squad ? nima nima
+POST sell_player ? name Y. Tielemans
+POST buy_player ? name Y. Tielemans
+POST sell_player ? name Y. Tielemans
+POST buy_player ? name Y. Tielemans
+POST sell_player ? name Y. Tielemans
+POST buy_player ? name Y. Tielemans
+GET squad ? nima nima
+POST register_admin ? username admin p 123456
+POST pass_week
+POST login ? team_name nima password a
+GET squad ? nima nima
+POST sell_player ? name Y. Tielemans
+POST buy_player ? name Y. Tielemans
+POST sell_player ? name Y. Tielemans
+POST buy_player ? name Y. Tielemans
+POST sell_player ? name Y. Tielemans
+POST buy_player ? name Y. Tielemans
+GET squad ? nima nima
+GET team_of_the_week ? d 1
+GET matches_result_league ? week_num 2
