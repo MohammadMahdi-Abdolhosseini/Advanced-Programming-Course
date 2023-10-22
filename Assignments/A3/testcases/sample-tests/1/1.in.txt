@@ -1,0 +1,5 @@
+1
+Mamad 5 Saturday Sunday Monday Tuesday Wednesday 2 Math Science
+2
+Math Saturday Sunday 07:30 13:00
+Science Monday Tuesday 07:30 13:00
