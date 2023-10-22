@@ -1,0 +1,34 @@
+POST signup ? team_name ali password a
+POST login ? team_name ali password a
+POST buy_player ? name A. Traore
+POST buy_player ? name Boubacar Traore
+POST buy_player ? name C. Dawson
+POST buy_player ? name D. Bentley
+POST buy_player ? name Hugo Bueno
+POST register_admin ? username admin p 123456
+POST pass_week
+GET players ? team_name Man._City ranks
+POST pass_week
+GET players ? team_name Man._City ranks
+POST pass_week
+GET players ? team_name Man._City ranks
+POST pass_week
+GET players ? team_name Man._City ranks
+POST pass_week
+GET players ? team_name Man._City ranks
+POST pass_week
+GET players ? team_name Man._City ranks
+POST pass_week
+GET players ? team_name Man._City ranks
+POST pass_week
+GET players ? team_name Man._City ranks
+POST pass_week
+GET players ? team_name Man._City ranks
+POST pass_week
+GET players ? team_name Man._City ranks
+POST login ? team_name ali password a
+GET squad ? ali ali
+POST register_admin ? username admin p 123456
+POST pass_week
+POST login ? team_name ali password a
+GET squad ? ali ali
