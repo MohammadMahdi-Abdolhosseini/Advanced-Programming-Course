@@ -1,0 +1,28 @@
+start_day 20/9/2020
+Today I woke up late
+But I managed to get to work on time
+Schools are opening soon so I have to fix my schedule
+start_day 21/9/2020
+Happy birthday to me
+It has been a really bad year but it does not matter
+I have high hopes for this year and I am excited to see what is to come
+Gonna throw a fun party tomorrow
+start_day 22/9/2020
+I had a ton of fun today
+It was literally the best day ever
+Great party awesome people
+show_the_best_day
+start_day 23/9/2020
+Im really tired now
+start_day 24/9/2020
+Today is gonna be a long day
+I have to prepare a lot of content for my class
+and also go to work
+can you believe it
+The next couple of weeks are going to be hell for me
+But its fine
+Ill get through it
+show_day 22/9/2020
+show_the_longest_day
+The end
+show_day 24/9/2020
